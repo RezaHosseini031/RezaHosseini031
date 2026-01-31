@@ -42,7 +42,7 @@ focus on architecture, performance, and user experience.
 
 <p>
   <a href="https://github.com/RezaHosseini031/TaskManager/tree/main" target="_blank">
-    <img src="https://raw.githubusercontent.com/RezaHosseini031/TaskManager/refs/heads/main/app/src/main/res/drawable/icon_app.png"
+    <img src="https://raw.githubusercontent.com/RezaHosseini031/TaskManager/refs/heads/main/icon%20app%20in%20README.png"
          width="52" alt="Task Manager" />
   </a>
 
