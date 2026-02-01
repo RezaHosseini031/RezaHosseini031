@@ -70,6 +70,11 @@ focus on architecture, performance, and user experience.
     <img src="https://s.cafebazaar.ir/images/icons/com.example.tesetaktikmain-857a341d-1ab1-411a-8aac-240fa648278a_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize"
          width="52" alt="Tese Taktik Main" />
   </a>
+  <p>
+🔗 <a href="https://cafebazaar.ir/developer/065499492579" target="_blank">
+bazar
+</a>
+</p>
 </p>
 
 <hr/>
