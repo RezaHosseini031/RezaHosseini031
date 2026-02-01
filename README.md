@@ -126,5 +126,5 @@ Meerkat on GitHub
 <hr/>
 
 <p align="center">
-✨ © Reza Hosseini
+© Reza Hosseini
 </p>
