@@ -72,7 +72,7 @@ focus on architecture, performance, and user experience.
   </a>
   <p>
 🔗 <a href="https://cafebazaar.ir/developer/065499492579" target="_blank">
-bazar
+View on Bazar
 </a>
 </p>
 </p>
