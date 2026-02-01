@@ -41,8 +41,8 @@ focus on architecture, performance, and user experience.
 <h2>📱 My Applications</h2>
 
 <p>
-  <a href="https://github.com/RezaHosseini031/TaskManager/tree/main" target="_blank">
-    <img src="https://raw.githubusercontent.com/RezaHosseini031/TaskManager/refs/heads/main/icon%20app%20in%20README.png"
+  <a href="https://github.com/RezaHosseini031/TaskManager" target="_blank">
+    <img src="https://raw.githubusercontent.com/RezaHosseini031/TaskManager/refs/heads/main/app/src/main/res/drawable/icon_app.png"
          width="52" alt="Task Manager" />
   </a>
 
@@ -87,7 +87,7 @@ A modern Android task management application developed to demonstrate real-world
 Android development practices. This project uses MVVM architecture, Coroutines,
 Flow, and clean separation of concerns to ensure scalability and maintainability.
 <br/>
-🔗 <a href="https://github.com/RezaHosseini031/TaskManager/tree/main" target="_blank">
+🔗 <a href="https://github.com/RezaHosseini031/TaskManager" target="_blank">
 View on GitHub
 </a>
 </p>
